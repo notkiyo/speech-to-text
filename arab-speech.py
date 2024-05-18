@@ -6,6 +6,9 @@ import logging
 import sounddevice as sd
 from vosk import Model, KaldiRecognizer
 
+# for the record i have no idea what the explain is because i give that task to a.i
+
+
 # Configure logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
